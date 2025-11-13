@@ -49,10 +49,6 @@
 
 <div align="center">
 
-[![File Explorer Clone](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-200&repo=file-explorer-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/Rodrigo-200/file-explorer-clone)
-
-[![DataVision Website](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-200&repo=datavision-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/Rodrigo-200/datavision-website)
-
 </div>
 
 ### 🗂️ **File Explorer Clone**
@@ -71,10 +67,8 @@ An interactive website showcasing data visualizations using HTML, CSS, and JavaS
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.contactme@manyme.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanyakalexandre@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandre-romanyak-76a678308)
 
 </div>
 
@@ -82,7 +76,7 @@ An interactive website showcasing data visualizations using HTML, CSS, and JavaS
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Rodrigo-200&color=2E9EF7&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=romanyak07&color=2E9EF7&style=for-the-badge)
   
   ⭐️ From [Alexandre Romanyak](https://github.com/Rodrigo-200)
   
