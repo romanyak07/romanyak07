@@ -23,8 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Tools & Platforms
@@ -37,11 +35,11 @@
 
 <div align="center">
   
-  ![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)
+  ![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romanyak07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-200&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romanyak07&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanyak07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9)
 
 </div>
 
@@ -68,7 +66,7 @@ An interactive website showcasing data visualizations using HTML, CSS, and JavaS
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romanyakalexandre@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandre-romanyak-76a678308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-romanyak-76a678308/?trk=li_LOL_SPIN_global_careers_jobsgtm_conv_acq_july2022_spinv2)
 
 </div>
 
@@ -78,6 +76,6 @@ An interactive website showcasing data visualizations using HTML, CSS, and JavaS
   
   ![Profile Views](https://komarev.com/ghpvc/?username=romanyak07&color=2E9EF7&style=for-the-badge)
   
-  ⭐️ From [Alexandre Romanyak](https://github.com/Rodrigo-200)
+  ⭐️ From [Alexandre Romanyak](https://github.com/romanyak07)
   
 </div>
