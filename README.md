@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Rodrigo
+Hi there! 👋 I'm Alexandre Romanyak
 <div align="center">
 Mostrar Imagem
 
@@ -56,9 +56,6 @@ An interactive website showcasing data visualizations using HTML, CSS, and JavaS
 📈 Dynamic charts and graphs
 🎯 Responsive design
 ⚡ Fast and lightweight
-🎵 Now Playing
-Mostrar Imagem
-
 📫 Connect with Me
 <div align="center">
 Mostrar Imagem
@@ -70,6 +67,6 @@ Mostrar Imagem
 <div align="center">
 Mostrar Imagem
 
-⭐️ From Rodrigo-200
+⭐️ From Alexandre Romanyak
 
 </div>
