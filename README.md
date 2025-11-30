@@ -12,7 +12,7 @@
 🌱 Currently learning: **C#, JavaScript, React, Tailwind CSS**  
 💼 Working on: **Glorious Battery Monitor**  
 🎯 Goal: Creating efficient and user-friendly applications  
-📫 Reach me at: **rodrigo.contactme@manyme.com**
+
 
 ## 🛠️ Tech Stack
 
