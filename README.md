@@ -9,8 +9,7 @@
 ## 🚀 About Me
 
 🎓 I'm a programming student passionate about building impactful software  
-🌱 Currently learning: **C#, JavaScript, React, Tailwind CSS**  
-💼 Working on: **Glorious Battery Monitor**  
+  🌱 Currently learning: React 
 🎯 Goal: Creating efficient and user-friendly applications  
 
 
