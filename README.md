@@ -42,23 +42,7 @@
 
 </div>
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-</div>
-
-### 🗂️ **File Explorer Clone**
-A Windows File Explorer clone built with C#, replicating core functionalities for educational purposes.
-- 📁 Full directory navigation
-- 🔍 File search functionality
-- 🎨 Modern UI design
-
-### 📊 **DataVision Website**
-An interactive website showcasing data visualizations using HTML, CSS, and JavaScript.
-- 📈 Dynamic charts and graphs
-- 🎯 Responsive design
-- ⚡ Fast and lightweight
 
 ## 📫 Connect with Me
 
